@@ -1,0 +1,31 @@
+PRODUCT.md
+  s_4c30820c6f76ea::t_7eedbf90ea27d3 55-56,95-96
+README.md
+  s_4c30820c6f76ea::t_7ba4511abc9894 178-180
+app/data/io.github.c9dev.PenguinMail.metainfo.xml
+  s_4c30820c6f76ea::t_9856055689d8e6 33
+po/en_GB.po
+  s_4c30820c6f76ea::t_0ae286bdddf7d2 71-72
+po/penguin-mail.pot
+  s_4c30820c6f76ea::t_c33ca1c8f3a9f7 81-82
+po/pt_PT.po
+  s_4c30820c6f76ea::t_513b2e95ac3584 102-103,106
+po/zh_TW.po
+  s_4c30820c6f76ea::t_a409dcaaa5ff2e 89-90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1a400c81098ce0beadd79d6183726324eae974b1",
+  "prompts": {},
+  "sessions": {
+    "s_4c30820c6f76ea": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a124be-2c0b-74b1-b3d8-7803d8244a1f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
