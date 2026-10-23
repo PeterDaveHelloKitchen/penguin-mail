@@ -1,0 +1,21 @@
+CHANGELOG.md
+  s_4c30820c6f76ea::t_9710a7b7030e19 17
+po/zh_TW.po
+  s_4c30820c6f76ea::t_220766df12db45 3928,3932,3936,8287,8291,8297,8301,8306,8310,8315,8319,8403-8404,9091,9096,9103-9104,9172,10730,10739-10742,10747,10751,10757,10764
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c6a691ebbcf858e5bc5f884be55fac1deea7438a",
+  "prompts": {},
+  "sessions": {
+    "s_4c30820c6f76ea": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a124be-2c0b-74b1-b3d8-7803d8244a1f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
